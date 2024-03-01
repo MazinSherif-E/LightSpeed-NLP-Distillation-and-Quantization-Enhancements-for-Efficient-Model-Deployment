@@ -1,0 +1,4 @@
+torch>=1.8.1
+transformers>=4.5.1
+optuna>=2.7.0
+numpy
