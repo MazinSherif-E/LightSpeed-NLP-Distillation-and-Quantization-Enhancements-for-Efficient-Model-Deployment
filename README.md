@@ -39,7 +39,7 @@ The primary goal of this project is to demonstrate how model distillation and qu
 ## How to Use
 
 1. **Clone the Repository**:
-git clone https://github.com/yourusername/optimized-nlp-model.git
+git clone https://github.com/MazinSherif-E/LightSpeed-NLP-Distillation-and-Quantization-Enhancements-for-Efficient-Model-Deployment
 
 2. **Install Dependencies**:
 pip install -r requirements.txt
